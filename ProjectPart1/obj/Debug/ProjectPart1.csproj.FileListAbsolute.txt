@@ -1,0 +1,15 @@
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\bin\Debug\ProjectPart1.exe.config
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\bin\Debug\ProjectPart1.exe
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\bin\Debug\ProjectPart1.pdb
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.csprojAssemblyReference.cache
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\MainWindow.g.cs
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\App.g.cs
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1_MarkupCompile.cache
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1_MarkupCompile.lref
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\MainWindow.baml
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.g.resources
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.Properties.Resources.resources
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.csproj.GenerateResource.cache
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.csproj.CoreCompileInputs.cache
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.exe
+C:\Users\Lam.DESKTOP-RIF59HA\source\repos\IERG3080\ProjectPart1\ProjectPart1\obj\Debug\ProjectPart1.pdb
